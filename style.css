@@ -1,0 +1,18 @@
+ <style>
+        body {
+            background-color: purple;
+        }
+        
+        h1 {
+            color: green;
+        }
+
+        .p1 {
+            color: blue;
+        }
+
+        .img-container {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
